@@ -1,0 +1,25 @@
+category_type,category,pay_gap_percent,women_earn_pct_of_men,year,note,source
+national_trend,1993-94,30.0,70.0,1993-94,Early post-liberalization era estimate,NSSO
+national_trend,2011-12,35.0,65.0,2011-12,Gap widened over two decades,NSSO
+national_trend,2017-18,33.0,67.0,2017-18,Latest large-scale NSSO estimate,NSSO
+national_trend,Current (ILO estimate),34.0,66.0,2020-2024,Headline national gender wage gap figure widely cited,ILO
+sector,Manufacturing,56.0,44.0,2017-18,Largest sectoral gap in NSSO data,NSSO
+sector,Services,45.0,55.0,2017-18,Second largest sectoral gap,NSSO
+sector,Agriculture,30.0,70.0,2017-18,"Smallest sectoral gap, though absolute wages very low",NSSO
+sector,IT & Software,60.0,40.0,2023-2024,One of the most male-dominated high-pay sectors,Industry report (ChangeInContent)
+sector,Finance & Banking,50.0,50.0,2023-2024,Women underrepresented in senior finance roles,Industry report (ChangeInContent)
+sector,Education,25.0,75.0,2023-2024,"Narrower gap; feminized, lower-paying sector overall",Industry report (ChangeInContent)
+sector,Healthcare,25.0,75.0,2023-2024,"Narrower gap; feminized, lower-paying sector overall",Industry report (ChangeInContent)
+region,Urban,23.9,76.1,Apr-Jun 2024,"Men avg Rs 26,105/month vs women Rs 19,879/month",PLFS
+region,Rural,31.9,68.1,Apr-Jun 2024,"Men avg Rs 18,200/month vs women Rs 12,396/month",PLFS
+age_group,25-34 years,45.0,55.0,2017-18,"Widest gap age band in NSSO data, likely tied to career-break years",NSSO
+worker_type,Self-employed,66.7,33.3,2023-24,Men earned approx. 3x what women did,PLFS
+worker_type,Salaried,16.7,83.3,2023-24,Men earned approx. 1.2x what women did,PLFS
+worker_type,Casual labour,33.3,66.7,2023-24,Men earned approx. 1.5x what women did,PLFS
+tech_seniority_overall,IT sector - Overall,16.1,83.9,2024,Broad technology sector average,Aavienda 2025
+tech_seniority_overall,IT sector - High-demand tech roles,22.2,77.8,2024,Gap widens in specialized high-demand roles,Aavienda 2025
+tech_seniority_overall,IT sector - Senior leadership,13.6,86.4,2024,Gap narrows somewhat at senior tech leadership,Aavienda 2025
+tech_seniority_itservices,IT Services - Overall,3.55,96.45,2024,"Different study, IT services subsegment only",Industry study
+tech_seniority_itservices,IT Services - Mid-level,6.12,93.88,2024,Gap increases moving up from overall average,Industry study
+tech_seniority_itservices,IT Services - Senior roles,8.34,91.66,2024,Largest gap within this IT services study,Industry study
+tech_seniority_itservices,IT Services - Non-tech roles,18.3,81.7,2024,Non-technical roles within IT companies show much wider gap,Industry study
